@@ -1,4 +1,4 @@
-# VuePress-KCJ
+# VuePress-KCJ Unplugged
 
 1. Project for KCJ
 2. Curated selection from RTP activities
