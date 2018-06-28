@@ -10,7 +10,7 @@
 
 npm run docs:dev
 
-> build mode - creates ( html - css - js )
+> build mode - creates ( html - css - js ) inside the dist folder
 
 npm run docs:build
 
