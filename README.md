@@ -7,8 +7,10 @@
 ### Terminal
 
 > developement mode
+
 npm run docs:dev
 
 > build mode - creates ( html - css - js )
+
 npm run docs:build
 
