@@ -10,5 +10,7 @@ features:
   # details: Un monde imaginaire de Pirates
 - title: Encourage children to create
   # details: Aventure à la recherche d'un trésor
-footer: MIT Licensed | 2018-KCJ | B.Ferragut 
+footer: © 2012 - 2018 Kids Code Jeunesse | All Right Reserved | Right to Play | B.Ferragut
+
+
 ---

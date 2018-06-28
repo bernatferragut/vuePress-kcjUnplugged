@@ -28,7 +28,7 @@ In your own life, what is a goal that you can break into smaller parts?
 
 ```diff
 + Excellent game to start knowing eachother =>  names introduction
-+ Having a String helps memorize and visualize paths
+ Having a String helps memorize and visualize paths
 + Histoires can be adapted by age: names, animals, dragons, heroes
 + MicroBit : pixel art design stories
 ```
@@ -337,6 +337,11 @@ Why is it helpful to break a goal or problem into different parts, and then to b
 + MicroBit : Gyroscope on the top of the building? Wins the flatest
 ```
 <counter/>
+
+
+> Author: Right to Play | B.Ferragut - May 2018 
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 
 
 

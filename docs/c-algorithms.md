@@ -401,4 +401,8 @@ What can you say to encourage a friend who makes a mistake?
 
 > Obstacle Course
 
+> Author: Right to Play | B.Ferragut - May 2018 
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
+
  

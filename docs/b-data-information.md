@@ -468,3 +468,7 @@ What do the differences tell you about your community?
 - How to introduce MicroBit?
 ```
 <counter/>
+
+> Author: Right to Play | B.Ferragut - May 2018 
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
